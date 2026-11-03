@@ -2,4 +2,6 @@
 title: "About"
 ---
 
-About this site
+## About Me
+My name is Eliza Larramendi and i gradatuated from Riverview high school.
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
